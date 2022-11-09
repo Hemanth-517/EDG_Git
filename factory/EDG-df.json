@@ -1,0 +1,9 @@
+{
+	"name": "EDG-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "38738ab1-bacc-4320-b8d0-485960887df2",
+		"tenantId": "0eadb77e-42dc-47f8-bbe3-ec2395e0712c"
+	}
+}
